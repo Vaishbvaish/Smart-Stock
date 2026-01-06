@@ -11,7 +11,7 @@ This project demonstrates practical implementation of core software engineering 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [How to Run the Project](#-how-to run the project)
+- [How to Run the Project](#-how-to-run-the-project)
 - [Future Enhancements](#future-enhancements)
 - [Contributor](#-contributor)
 
