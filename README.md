@@ -12,8 +12,8 @@ This project demonstrates practical implementation of core software engineering 
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project structure)
 - [How to Run the Project](#how to run the project)
-- [Future Enhancements](future enhancements)
-  - [Contributor](#contributor)
+- [Future Enhancements](#future enhancements)
+- [Contributor](#contributor)
 
 ## Features
 
@@ -54,7 +54,7 @@ Smart-Stock/
 
 1. **Clone the repository**:
 
-git clone https://github.com/Vaishbvaish/Smart-Stock.git
+    git clone https://github.com/Vaishbvaish/Smart-Stock.git
 
 2. **Open the project in your preferred IDE**
 
@@ -76,5 +76,5 @@ git clone https://github.com/Vaishbvaish/Smart-Stock.git
 
 ## Contributor
 
-**Name:Vaishnavi B
-**Linkedin:https://www.linkedin.com/in/vaishnavi-b-770b8a25b/
+*Name:Vaishnavi B
+*Linkedin:https://www.linkedin.com/in/vaishnavi-b-770b8a25b/
