@@ -8,11 +8,11 @@ It helps users make informed decisions by organizing stock-related information i
 This project demonstrates practical implementation of core software engineering concepts such as modular design, data handling, and system integration.
 
 ## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project structure)
-- [How to Run the Project](#how to run the project)
-- [Future Enhancements](#future enhancements)
+- [Features] (#features)
+- [Technologies Used] (#technologies-used)
+- [Project Structure] (#project structure)
+- [How to Run the Project] (#how to run the project)
+- [Future Enhancements] (#future enhancements)
 - [Contributor](#contributor)
 
 ## Features
@@ -40,15 +40,25 @@ This project demonstrates practical implementation of core software engineering 
 ## Project Structure
 
 Smart-Stock/
+
 │
+
 ├── SmartStock/
+
 │   ├── src/
+
 │   ├── assets/
+
 │   ├── components/
+
 │   └── main files
+
 │
+
 ├── README.md
+
 └── other configuration files
+
 
 ## How to Run the Project
 
