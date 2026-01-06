@@ -8,11 +8,11 @@ It helps users make informed decisions by organizing stock-related information i
 This project demonstrates practical implementation of core software engineering concepts such as modular design, data handling, and system integration.
 
 ## Table of Contents
-- [Features] (#features)
-- [Technologies Used] (#technologies-used)
-- [Project Structure] (#project structure)
-- [How to Run the Project] (#how to run the project)
-- [Future Enhancements] (#future enhancements)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project structure)
+- [How to Run the Project](#how to run the project)
+- [Future Enhancements](#future enhancements)
 - [Contributor](#contributor)
 
 ## Features
@@ -87,4 +87,5 @@ Smart-Stock/
 ## Contributor
 
 *Name:Vaishnavi B
+
 *Linkedin:https://www.linkedin.com/in/vaishnavi-b-770b8a25b/
